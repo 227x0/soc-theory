@@ -31,4 +31,4 @@ than translation polish. Terms stay in English.
 
 ## Status
 
-🚧 Growing daily. Start here: [notes/](notes/)
+🚧 Growing daily. Start here: [notes/](notes/) · first test: [tests/alert-triage-attempt-01.md](tests/alert-triage-attempt-01.md) — graded 3/5, mistakes documented
