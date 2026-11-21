@@ -18,9 +18,8 @@ Practice answers the question *"can you do it?"*. This repo answers *"do you und
 | `breakdowns/` | Analyses of real incidents, CVEs, malware reports, news — decomposed like my lab cases but without the lab. |
 | `interview/` | Expected interview questions (EN/CZ), rehearsed answers, gaps I keep hitting. |
 
-Language note: structure and headers in English (searchable, professional);
-explanations often in Russian/Ukrainian — thinking in my own words matters more
-than translation polish. Terms stay in English.
+Language: **English, compact.** Drafts in RU stay local; what gets published
+is short and in English. Terms stay in English.
 
 ## Rules of this repo
 
